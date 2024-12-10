@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\bin\Debug\Payroll_Management_Sysyem(Ejie's Barbershop).exe.config
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\bin\Debug\Payroll_Management_Sysyem(Ejie's Barbershop).exe
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\bin\Debug\Payroll_Management_Sysyem(Ejie's Barbershop).pdb
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\bin\Debug\stdole.dll
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem(Ejie's Barbershop).csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem_Ejie_s_Barbershop_.DTR.resources
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem_Ejie_s_Barbershop_.Employees.resources
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem_Ejie_s_Barbershop_.Home.resources
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem_Ejie_s_Barbershop_.Login.resources
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem_Ejie_s_Barbershop_.Properties.Resources.resources
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem(Ejie's Barbershop).csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem(Ejie's Barbershop).csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_.6AA364CE.Up2Date
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem(Ejie's Barbershop).exe
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem(Ejie's Barbershop).pdb
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem_Ejie_s_Barbershop_.Payroll.resources
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem_Ejie_s_Barbershop_.Bonus.resources
+C:\Users\Admin\source\repos\Payroll_Management_Sysyem(Ejie's Barbershop)\Payroll_Management_Sysyem(Ejie's Barbershop)\obj\Debug\Payroll_Management_Sysyem_Ejie_s_Barbershop_.Advance.resources
